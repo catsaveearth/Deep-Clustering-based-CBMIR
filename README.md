@@ -59,4 +59,45 @@ https://github.com/awholeneworld/MobileDicomViewer
 
 
 # License
-최종 라이센스? + SWAV 라이센스
+### This project: [CC-BY-NC](https://github.com/catsaveearth/Deep-Clustering-based-CBMIR/blob/main/README.md) <br>
+![image](https://user-images.githubusercontent.com/50789540/160509321-23bd9d1f-8511-4eca-a3e8-3918264f7fa2.png)
+```
+Attribution-NonCommercial 4.0 International
+
+=======================================================================
+
+Creative Commons Corporation ("Creative Commons") is not a law firm and
+does not provide legal services or legal advice. Distribution of
+Creative Commons public licenses does not create a lawyer-client or
+other relationship. Creative Commons makes its licenses and related
+information available on an "as-is" basis. Creative Commons gives no
+warranties regarding its licenses, any material licensed under their
+terms and conditions, or any related information. Creative Commons
+disclaims all liability for damages resulting from their use to the
+fullest extent possible.
+.
+.
+.
+```
+
+### SwAV License : [CC-BY-NC](https://github.com/facebookresearch/swav/edit/main/LICENSE) <br>
+![image](https://user-images.githubusercontent.com/50789540/160509321-23bd9d1f-8511-4eca-a3e8-3918264f7fa2.png)
+
+```
+Attribution-NonCommercial 4.0 International
+
+=======================================================================
+
+Creative Commons Corporation ("Creative Commons") is not a law firm and
+does not provide legal services or legal advice. Distribution of
+Creative Commons public licenses does not create a lawyer-client or
+other relationship. Creative Commons makes its licenses and related
+information available on an "as-is" basis. Creative Commons gives no
+warranties regarding its licenses, any material licensed under their
+terms and conditions, or any related information. Creative Commons
+disclaims all liability for damages resulting from their use to the
+fullest extent possible.
+.
+.
+.
+```
